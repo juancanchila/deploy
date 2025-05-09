@@ -1,0 +1,10 @@
+.env
+node_modules/
+solfint-86bd8-firebase-adminsdk-fbsvc-9bd2f265b3.json
+*-firebase-adminsdk-*.json
+dist/
+*.log
+# Ignorar archivos sensibles
+src/utils/firebase.js
+src/utils/twilio.js
+coverage/
